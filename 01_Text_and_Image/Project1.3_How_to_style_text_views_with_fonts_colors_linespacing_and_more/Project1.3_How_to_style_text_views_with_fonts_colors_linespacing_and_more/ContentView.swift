@@ -10,7 +10,28 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello World")
+        // 1.设置字体
+//        Text("This is an extremely long text string that will never fit even the widest of Phones")
+//            .font(.largeTitle)
+        
+        // 2.设置文本对齐方式
+//        Text("This is an extremely long text string that will never fit even the widest of Phones")
+//            .font(.largeTitle)
+//            .multilineTextAlignment(.center)
+        
+        // 3.设置字体颜色
+//        Text("The best laid plans")
+//            .foregroundColor(.red)
+        
+        // 4. 设置背景颜色
+//        Text("The best laid plans")
+//            .foregroundColor(.red)
+//            .background(Color.yellow)
+        
+        // 5.设置行间距
+        Text("This is an extremely long text string that will never fit even the widest of Phones")
+            .font(.largeTitle)
+            .lineSpacing(50)
     }
 }
 
