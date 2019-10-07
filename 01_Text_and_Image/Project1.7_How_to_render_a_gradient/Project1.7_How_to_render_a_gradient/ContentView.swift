@@ -38,13 +38,13 @@ struct ContentView: View {
 //            .fill(conic)
 //            .frame(width: 400, height: 400)
         
-        // 6. 圆锥梯度
+        // 6. 角度渐变(圆锥梯度)
 //        let colors = Gradient(colors: [.red, .yellow, .green, .blue, .purple, .red])
 //        let conic = AngularGradient(gradient: colors, center: .center)
 //        return Circle()
 //            .fill(conic)
         
-        // 7. 圆环
+        // 7. 角度渐变(圆环)
         let colors = Gradient(colors: [.red, .yellow, .green, .blue, .purple, .red])
         let conic = AngularGradient(gradient: colors, center: .center, startAngle: .zero, endAngle: .degrees(360))
         return Circle()
