@@ -6,6 +6,7 @@
 import SwiftUI
 
 struct ContentView: View {
+    // GeometryReader
     var body: some View {
         GeometryReader { geometry in
             HStack(spacing: 0) {
