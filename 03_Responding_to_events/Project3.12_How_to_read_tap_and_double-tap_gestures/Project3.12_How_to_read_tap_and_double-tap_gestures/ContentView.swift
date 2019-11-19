@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  Project12_How_to_read_tap_and_double-tap_gestures
+//  Project3.12_How_to_read_tap_and_double-tap_gestures
 //
 
 import SwiftUI

@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Project12_How_to_read_tap_and_double-tap_gestures
+//  Project3.12_How_to_read_tap_and_double-tap_gestures
 //
 //  Created by Devin X D LI on 2019/11/19.
 //  Copyright © 2019 Devin X D LI. All rights reserved.
